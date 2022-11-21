@@ -1,9 +1,11 @@
 bulk
 embetter[text]
 whatlies
-textnets
 umap-learn
 jupyterlab
 pandas
+bertopic
+ipywidgets
 spacy>=3.4.3,<3.5.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0.tar.gz#egg=en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0.tar.gz#egg=en_core_web_md
