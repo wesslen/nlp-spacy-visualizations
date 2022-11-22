@@ -4,7 +4,7 @@
 
 The easiest way to run is to run it in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wesslen/nlp-spacy-visualizations/HEAD?labpath=01-spacy-visualizer.ipynb)
 
-This way you don't have to install anything locally. Not all of the packages will work but this is best to follow along.
+This way you don't have to install anything locally. It may take 5-10 minutes to start so be patient. Also, the `bulk` example at the bottom won't work because it requires opening up a new port.
 
 ## ⏩ Getting started
 
