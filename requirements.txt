@@ -1,5 +1,3 @@
-bulk
-embetter[text]
 whatlies
 umap-learn
 jupyterlab
@@ -10,4 +8,3 @@ textacy==0.12.0
 wordcloud==1.8.2.2
 spacy>=3.4.3,<3.5.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0.tar.gz#egg=en_core_web_sm
-https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0.tar.gz#egg=en_core_web_md
