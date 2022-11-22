@@ -1,5 +1,3 @@
-bulk
-embetter[text]
 whatlies
 umap-learn
 jupyterlab
